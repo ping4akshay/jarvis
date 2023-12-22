@@ -1,0 +1,9 @@
+pyttsx3
+winspeech
+SpeechRecognition
+psutil
+pyjokes
+wikipedia
+pyautogui
+pipwin
+#pipwin install pyaudio
